@@ -56,18 +56,18 @@
       
 Typical JSON object will be as shown below
 
-{
-    "name":"James J. Hill",
-    "Born on":"16 September 1838 AD”,
-    "Died At Age":"77",
-    "education":"Rockwood Academy (1852)",
-    "Spouse\/Partner":"Mary Theresa Mehegan (m. 1867)",
-    "Nationality":"Canadian, American",
-    "Born in":"Eramosa Township, Ontario, Upper Canada",
-    "Sun Sign":"Virgo",
-    "Died on":"29 May 1916 AD",
-    "Net worth":"$10 million",
-    "place of death":"St. Paul, Minnesota",
-    "URL":"http:\/\/www.thefamouspeople.com\/profiles\/james-j-hill-138.php",
-    "Famous as":"Canadian-American railroad executive, Businessman"
+{<br>
+    "name":"James J. Hill",<br>
+    "Born on":"16 September 1838 AD”,<br>
+    "Died At Age":"77",<br>
+    "education":"Rockwood Academy (1852)",<br>
+    "Spouse\/Partner":"Mary Theresa Mehegan (m. 1867)",<br>
+    "Nationality":"Canadian, American",<br>
+    "Born in":"Eramosa Township, Ontario, Upper Canada",<br>
+    "Sun Sign":"Virgo",<br>
+    "Died on":"29 May 1916 AD",<br>
+    "Net worth":"$10 million",<br>
+    "place of death":"St. Paul, Minnesota",<br>
+    "URL":"http:\/\/www.thefamouspeople.com\/profiles\/james-j-hill-138.php",<br>
+    "Famous as":"Canadian-American railroad executive, Businessman"<br>
 }
